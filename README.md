@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me aamauricio@google.com
+- 📫 How to reach me mauricio1314@gmail.com
 
 <!---
 Maulvar0/Maulvar0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
